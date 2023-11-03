@@ -1,0 +1,46 @@
+[00:00:55] [Render thread/INFO]: Loaded 213 advancements
+[00:00:56] [Render thread/INFO]: Loaded 216 advancements
+[00:01:22] [Render thread/INFO]: Loaded 218 advancements
+[00:01:38] [Render thread/INFO]: Loaded 218 advancements
+[00:02:01] [Server thread/INFO]: Saving and pausing game...
+[00:02:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Hardcore World]'/minecraft:overworld
+[00:02:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Hardcore World]'/minecraft:the_nether
+[00:02:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Hardcore World]'/minecraft:the_end
+[00:02:44] [Render thread/INFO]: Loaded 233 advancements
+[00:04:04] [Server thread/INFO]: Coldspell has made the advancement [An Ancient Tomb]
+[00:04:04] [Render thread/INFO]: [System] [CHAT] Coldspell has made the advancement [An Ancient Tomb]
+[00:04:04] [Render thread/INFO]: Loaded 233 advancements
+[00:04:35] [Render thread/INFO]: Loaded 247 advancements
+[00:04:46] [Render thread/INFO]: Loaded 249 advancements
+[00:04:55] [Render thread/INFO]: Loaded 255 advancements
+[00:04:55] [Render thread/INFO]: Loaded 264 advancements
+[00:07:18] [Server thread/INFO]: Saving and pausing game...
+[00:07:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Hardcore World]'/minecraft:overworld
+[00:07:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Hardcore World]'/minecraft:the_nether
+[00:07:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Hardcore World]'/minecraft:the_end
+[00:07:19] [Render thread/INFO]: Minimap session finalized.
+[00:07:19] [Render thread/INFO]: Finalizing world map session...
+[00:07:19] [Thread-5/INFO]: World map cleaned normally!
+[00:07:19] [Render thread/INFO]: World map session finalized.
+[00:07:19] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggingOut
+[00:07:19] [Render thread/INFO]: JEI StartEventObserver transitioning state from JEI_STARTED to DISABLED
+[00:07:19] [Render thread/INFO]: Stopping JEI
+[00:07:19] [Render thread/INFO]: Sending Runtime Unavailable...
+[00:07:19] [Render thread/INFO]: Stopping JEI GUI
+[00:07:19] [Render thread/INFO]: Sending Runtime Unavailable took 3.200 ms
+[00:07:19] [Sound engine/ERROR]: Stop: Invalid name parameter.
+[00:07:19] [Server thread/INFO]: Coldspell lost connection: Disconnected
+[00:07:19] [Server thread/INFO]: Coldspell left the game
+[00:07:19] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[00:07:19] [Config file watcher thread/INFO]: Watcher has shut down
+[00:07:19] [Server thread/INFO]: Stopping server
+[00:07:19] [Server thread/INFO]: Saving players
+[00:07:19] [Server thread/INFO]: Saving worlds
+[00:07:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Hardcore World]'/minecraft:overworld
+[00:07:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Hardcore World]'/minecraft:the_nether
+[00:07:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Hardcore World]'/minecraft:the_end
+[00:07:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (Hardcore World): All chunks are saved
+[00:07:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:07:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:07:20] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:07:24] [Render thread/INFO]: Stopping!
