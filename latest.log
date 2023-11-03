@@ -1,0 +1,72 @@
+[08:03:03] [main/INFO]: ModLauncher running: args [--username, Coldspell, --version, forge-47.2.4, --gameDir, C:\Users\chris\curseforge\minecraft\Instances\1.20.1, --assetsDir, C:\Users\chris\curseforge\minecraft\Install\assets, --assetIndex, 5, --uuid, f1a4f30ab844418889fec2dceab76fdd, --accessToken, ????????, --clientId, OGMyYzU1ODEtNjJhNy00OTJjLTlkNzQtOThkY2VkZTA4YjFl, --xuid, 2535445286558808, --userType, msa, --versionType, release, --width, 1024, --height, 768, --quickPlayPath, C:\Users\chris\curseforge\minecraft\Install\quickPlay\java\1699016580660.json, --launchTarget, forgeclient, --fml.forgeVersion, 47.2.4, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[08:03:03] [main/INFO]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.8 by Microsoft; OS Windows 11 arch amd64 version 10.0
+[08:03:04] [main/INFO]: Loading ImmediateWindowProvider fmlearlywindow
+[08:03:04] [main/INFO]: Trying GL version 4.6
+[08:03:05] [main/INFO]: Requested GL version 4.6 got version 4.6
+[08:03:05] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/chris/curseforge/minecraft/Install/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%23100!/ Service=ModLauncher Env=CLIENT
+[08:03:05] [pool-2-thread-1/INFO]: GL info: NVIDIA GeForce GTX 1660 SUPER/PCIe/SSE2 GL version 4.6.0 NVIDIA 545.84, NVIDIA Corporation
+[08:03:05] [main/INFO]: Found mod file appleskin-forge-mc1.20.1-2.5.1.jar of type MOD with provider {mods folder locator at C:\Users\chris\curseforge\minecraft\Instances\1.20.1\mods}
+[08:03:05] [main/INFO]: Found mod file biggerstacks-1.20.1-0.0.3-all.jar of type MOD with provider {mods folder locator at C:\Users\chris\curseforge\minecraft\Instances\1.20.1\mods}
+[08:03:05] [main/INFO]: Found mod file BiomesOPlenty-1.20.1-18.0.0.592.jar of type MOD with provider {mods folder locator at C:\Users\chris\curseforge\minecraft\Instances\1.20.1\mods}
+[08:03:05] [main/INFO]: Found mod file Bookshelf-Forge-1.20.1-20.1.6.jar of type MOD with provider {mods folder locator at C:\Users\chris\curseforge\minecraft\Instances\1.20.1\mods}
+[08:03:05] [main/INFO]: Found mod file Clumps-forge-1.20.1-12.0.0.3.jar of type MOD with provider {mods folder locator at C:\Users\chris\curseforge\minecraft\Instances\1.20.1\mods}
+[08:03:05] [main/INFO]: Found mod file ColdsRunes1.20.1(Forge)vs.1.0.3.jar of type MOD with provider {mods folder locator at C:\Users\chris\curseforge\minecraft\Instances\1.20.1\mods}
+[08:03:05] [main/INFO]: Found mod file comforts-forge-6.3.4+1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\chris\curseforge\minecraft\Instances\1.20.1\mods}
+[08:03:05] [main/INFO]: Found mod file EasyPaxel1.20.1(Forge)vs1.0.3.jar of type MOD with provider {mods folder locator at C:\Users\chris\curseforge\minecraft\Instances\1.20.1\mods}
+[08:03:05] [main/INFO]: Found mod file EnchantmentDescriptions-Forge-1.20.1-17.0.8.jar of type MOD with provider {mods folder locator at C:\Users\chris\curseforge\minecraft\Instances\1.20.1\mods}
+[08:03:05] [main/INFO]: Found mod file GearHearts1.20.1(Forge)vs1.0.1.jar of type MOD with provider {mods folder locator at C:\Users\chris\curseforge\minecraft\Instances\1.20.1\mods}
+[08:03:05] [main/INFO]: Found mod file gravestone-1.20.1-1.0.5.jar of type MOD with provider {mods folder locator at C:\Users\chris\curseforge\minecraft\Instances\1.20.1\mods}
+[08:03:05] [main/INFO]: Found mod file Jade-1.20.1-forge-11.6.3.jar of type MOD with provider {mods folder locator at C:\Users\chris\curseforge\minecraft\Instances\1.20.1\mods}
+[08:03:05] [main/INFO]: Found mod file jei-1.20.1-forge-15.2.0.27.jar of type MOD with provider {mods folder locator at C:\Users\chris\curseforge\minecraft\Instances\1.20.1\mods}
+[08:03:05] [main/INFO]: Found mod file macawsbridgesbop-1.20-1.1.jar of type MOD with provider {mods folder locator at C:\Users\chris\curseforge\minecraft\Instances\1.20.1\mods}
+[08:03:05] [main/INFO]: Found mod file macawsroofsbop-1.20-1.0.jar of type MOD with provider {mods folder locator at C:\Users\chris\curseforge\minecraft\Instances\1.20.1\mods}
+[08:03:05] [main/INFO]: Found mod file mcw-bridges-2.1.1-mc1.20.1forge.jar of type MOD with provider {mods folder locator at C:\Users\chris\curseforge\minecraft\Instances\1.20.1\mods}
+[08:03:05] [main/INFO]: Found mod file mcw-doors-1.1.0forge-mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\chris\curseforge\minecraft\Instances\1.20.1\mods}
+[08:03:05] [main/INFO]: Found mod file mcw-fences-1.0.7-mc1.20.1forge.jar of type MOD with provider {mods folder locator at C:\Users\chris\curseforge\minecraft\Instances\1.20.1\mods}
+[08:03:05] [main/INFO]: Found mod file mcw-furniture-3.2.0-mc1.20.1forge.jar of type MOD with provider {mods folder locator at C:\Users\chris\curseforge\minecraft\Instances\1.20.1\mods}
+[08:03:05] [main/INFO]: Found mod file mcw-holidays-1.0.0-mc1.20.1forge.jar of type MOD with provider {mods folder locator at C:\Users\chris\curseforge\minecraft\Instances\1.20.1\mods}
+[08:03:05] [main/INFO]: Found mod file mcw-lights-1.0.6-mc1.20.1forge.jar of type MOD with provider {mods folder locator at C:\Users\chris\curseforge\minecraft\Instances\1.20.1\mods}
+[08:03:05] [main/INFO]: Found mod file mcw-paintings-1.0.4-1.20.1forge.jar of type MOD with provider {mods folder locator at C:\Users\chris\curseforge\minecraft\Instances\1.20.1\mods}
+[08:03:05] [main/INFO]: Found mod file mcw-paths-1.0.3forge-mc1.20.1.jar of type MOD with provider {mods folder locator at C:\Users\chris\curseforge\minecraft\Instances\1.20.1\mods}
+[08:03:05] [main/INFO]: Found mod file mcw-roofs-2.2.4b-mc1.20.1forge.jar of type MOD with provider {mods folder locator at C:\Users\chris\curseforge\minecraft\Instances\1.20.1\mods}
+[08:03:05] [main/INFO]: Found mod file mcw-trapdoors-1.1.1-mc1.20.1forge.jar of type MOD with provider {mods folder locator at C:\Users\chris\curseforge\minecraft\Instances\1.20.1\mods}
+[08:03:05] [main/INFO]: Found mod file mcw-windows-2.2.0-mc1.20.1forge.jar of type MOD with provider {mods folder locator at C:\Users\chris\curseforge\minecraft\Instances\1.20.1\mods}
+[08:03:05] [main/INFO]: Found mod file mcwfencesbop-1.20-1.0.jar of type MOD with provider {mods folder locator at C:\Users\chris\curseforge\minecraft\Instances\1.20.1\mods}
+[08:03:05] [main/INFO]: Found mod file mcwfurnituresbop-1.20-1.1.jar of type MOD with provider {mods folder locator at C:\Users\chris\curseforge\minecraft\Instances\1.20.1\mods}
+[08:03:05] [main/INFO]: Found mod file sophisticatedbackpacks-1.20.1-3.18.65.935.jar of type MOD with provider {mods folder locator at C:\Users\chris\curseforge\minecraft\Instances\1.20.1\mods}
+[08:03:05] [main/INFO]: Found mod file sophisticatedcore-1.20.1-0.5.100.457.jar of type MOD with provider {mods folder locator at C:\Users\chris\curseforge\minecraft\Instances\1.20.1\mods}
+[08:03:05] [main/INFO]: Found mod file StarMetal1.20.1(Forge)vs1.0.1.jar of type MOD with provider {mods folder locator at C:\Users\chris\curseforge\minecraft\Instances\1.20.1\mods}
+[08:03:05] [main/INFO]: Found mod file TerraBlender-forge-1.20.1-3.0.0.169.jar of type MOD with provider {mods folder locator at C:\Users\chris\curseforge\minecraft\Instances\1.20.1\mods}
+[08:03:05] [main/INFO]: Found mod file UsefulBats1.20.1(Forge)vs1.0.0.jar of type MOD with provider {mods folder locator at C:\Users\chris\curseforge\minecraft\Instances\1.20.1\mods}
+[08:03:05] [main/INFO]: Found mod file WaterloggedChests1.20.1(Forge)vs1.0.3.jar of type MOD with provider {mods folder locator at C:\Users\chris\curseforge\minecraft\Instances\1.20.1\mods}
+[08:03:05] [main/INFO]: Found mod file Xaeros_Minimap_23.8.4_Forge_1.20.jar of type MOD with provider {mods folder locator at C:\Users\chris\curseforge\minecraft\Instances\1.20.1\mods}
+[08:03:05] [main/INFO]: Found mod file XaerosWorldMap_1.36.0_Forge_1.20.jar of type MOD with provider {mods folder locator at C:\Users\chris\curseforge\minecraft\Instances\1.20.1\mods}
+[08:03:05] [main/INFO]: Found mod file YungsApi-1.20-Forge-4.0.2.jar of type MOD with provider {mods folder locator at C:\Users\chris\curseforge\minecraft\Instances\1.20.1\mods}
+[08:03:05] [main/INFO]: Found mod file YungsBetterDesertTemples-1.20-Forge-3.0.3.jar of type MOD with provider {mods folder locator at C:\Users\chris\curseforge\minecraft\Instances\1.20.1\mods}
+[08:03:05] [main/INFO]: Found mod file YungsBetterDungeons-1.20-Forge-4.0.3.jar of type MOD with provider {mods folder locator at C:\Users\chris\curseforge\minecraft\Instances\1.20.1\mods}
+[08:03:05] [main/INFO]: Found mod file YungsBetterEndIsland-1.20-Forge-2.0.4.jar of type MOD with provider {mods folder locator at C:\Users\chris\curseforge\minecraft\Instances\1.20.1\mods}
+[08:03:05] [main/INFO]: Found mod file YungsBetterJungleTemples-1.20-Forge-2.0.4.jar of type MOD with provider {mods folder locator at C:\Users\chris\curseforge\minecraft\Instances\1.20.1\mods}
+[08:03:05] [main/INFO]: Found mod file YungsBetterMineshafts-1.20-Forge-4.0.4.jar of type MOD with provider {mods folder locator at C:\Users\chris\curseforge\minecraft\Instances\1.20.1\mods}
+[08:03:05] [main/INFO]: Found mod file YungsBetterNetherFortresses-1.20-Forge-2.0.5.jar of type MOD with provider {mods folder locator at C:\Users\chris\curseforge\minecraft\Instances\1.20.1\mods}
+[08:03:05] [main/INFO]: Found mod file YungsBetterOceanMonuments-1.20-Forge-3.0.3.jar of type MOD with provider {mods folder locator at C:\Users\chris\curseforge\minecraft\Instances\1.20.1\mods}
+[08:03:05] [main/INFO]: Found mod file YungsBetterStrongholds-1.20-Forge-4.0.3.jar of type MOD with provider {mods folder locator at C:\Users\chris\curseforge\minecraft\Instances\1.20.1\mods}
+[08:03:05] [main/INFO]: Found mod file YungsBetterWitchHuts-1.20-Forge-3.0.3.jar of type MOD with provider {mods folder locator at C:\Users\chris\curseforge\minecraft\Instances\1.20.1\mods}
+[08:03:05] [main/INFO]: Found mod file YungsBridges-1.20-Forge-4.0.3.jar of type MOD with provider {mods folder locator at C:\Users\chris\curseforge\minecraft\Instances\1.20.1\mods}
+[08:03:05] [main/INFO]: Found mod file YungsExtras-1.20-Forge-4.0.3.jar of type MOD with provider {mods folder locator at C:\Users\chris\curseforge\minecraft\Instances\1.20.1\mods}
+[08:03:05] [main/INFO]: Found mod file YungsMenuTweaks-1.20.1-Forge-1.0.1.jar of type MOD with provider {mods folder locator at C:\Users\chris\curseforge\minecraft\Instances\1.20.1\mods}
+[08:03:05] [main/WARN]: Mod file C:\Users\chris\curseforge\minecraft\Install\libraries\net\minecraftforge\fmlcore\1.20.1-47.2.4\fmlcore-1.20.1-47.2.4.jar is missing mods.toml file
+[08:03:05] [main/WARN]: Mod file C:\Users\chris\curseforge\minecraft\Install\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.2.4\javafmllanguage-1.20.1-47.2.4.jar is missing mods.toml file
+[08:03:05] [main/WARN]: Mod file C:\Users\chris\curseforge\minecraft\Install\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.2.4\lowcodelanguage-1.20.1-47.2.4.jar is missing mods.toml file
+[08:03:05] [main/WARN]: Mod file C:\Users\chris\curseforge\minecraft\Install\libraries\net\minecraftforge\mclanguage\1.20.1-47.2.4\mclanguage-1.20.1-47.2.4.jar is missing mods.toml file
+[08:03:05] [main/INFO]: Found mod file fmlcore-1.20.1-47.2.4.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@73ab3aac
+[08:03:05] [main/INFO]: Found mod file javafmllanguage-1.20.1-47.2.4.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@73ab3aac
+[08:03:05] [main/INFO]: Found mod file lowcodelanguage-1.20.1-47.2.4.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@73ab3aac
+[08:03:05] [main/INFO]: Found mod file mclanguage-1.20.1-47.2.4.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@73ab3aac
+[08:03:05] [main/INFO]: Found mod file client-1.20.1-20230612.114412-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@73ab3aac
+[08:03:05] [main/INFO]: Found mod file forge-1.20.1-47.2.4-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@73ab3aac
+[08:03:05] [main/INFO]: Found 5 dependencies adding them to mods collection
+[08:03:05] [main/INFO]: Found mod file BiggerStacksTransformerLib-1.3.2.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@30c0d731
+[08:03:05] [main/INFO]: Found mod file xstream-1.4.20.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@30c0d731
+[08:03:05] [main/INFO]: Found mod file BiggerStacksConfigLib-1.8.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@30c0d731
+[08:03:05] [main/INFO]: Found mod file SimpleLoggerWrapper-1.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@30c0d731
+[08:03:05] [main/INFO]: Found mod file spectrelib-forge-0.13.14+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@30c0d731
